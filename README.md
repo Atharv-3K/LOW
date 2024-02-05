@@ -1,3 +1,2 @@
 # LOW
-<br>
 Author - Atharv
